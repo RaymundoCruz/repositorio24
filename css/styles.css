@@ -1,0 +1,42 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Color de fondo */
+}
+
+header {
+    background-color: #f0ebeb; /* Color de fondo del encabezado */
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #7c2c78; /* Color de enlace */
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #c3fffb; /* Color de fondo del pie de página */
+    color: #6d6d6d; /* Color del texto del pie de página */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
