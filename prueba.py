@@ -4,5 +4,6 @@ print("""Select an option from the menu:
       3.fibonacci using POO
       4.fibonacci 
       5.salir
-      goodbye have an excellent day
+      6.another option
+      goodbye have an excellent day 
       """)
