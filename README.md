@@ -1,2 +1,4 @@
-# repositorio24
-Retomando blog para el curso de platzi
+## Proyecto
+> Dedicado a crear una página accesible al usuario
+
+#### Creación de proyecto usando python, git y demás herramientas  
